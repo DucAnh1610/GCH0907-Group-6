@@ -1,7 +1,11 @@
 Duc Anh 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Hong Duc
+=======
+Quang Huy
+>>>>>>> e229f4b4854f3c172b158358ecb53a48530a10d5
 =======
 Quang Huy
 >>>>>>> e229f4b4854f3c172b158358ecb53a48530a10d5
